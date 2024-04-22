@@ -25,7 +25,7 @@ To play the Guessing Game, follow these steps:
 5. Continue guessing until you correctly guess the number.
 6. The program will display the number of attempts it took to guess the correct number.
 
-##Example usage:
+## Example usage:
 
 bash
 $ g++ -o guessing_game guessing_game.cpp
