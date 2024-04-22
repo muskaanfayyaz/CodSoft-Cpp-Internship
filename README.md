@@ -28,6 +28,7 @@ To play the Guessing Game, follow these steps:
 ## Example usage:
 
 bash
+
 $ g++ -o guessing_game guessing_game.cpp
 
 $ ./guessing_game
