@@ -43,7 +43,8 @@ int main()
 			cout<<"result: "<<x;
 			break;
 		}
-		default : {cout<<"invalid operator";
+		default : {
+			cout<<"invalid operator";
 			break;
 		}
 		
