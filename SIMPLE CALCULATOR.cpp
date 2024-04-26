@@ -26,7 +26,7 @@ int main()
 			cout<<"result: "<<x;
 			break;
 		}
-		case '/' :{ //if user enter / divide both num
+		case '/' :{ //if user enter / divide both num and if num2 is 0 display a error msg
 		    if(num2 == 0 )
 		    {
 		        cout<< "ERROR! division by zero is not possible. "; 
