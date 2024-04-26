@@ -36,7 +36,8 @@ int main()
 			x = num1 / num2;
 			cout<<"result: "<<x;
 			break;
-		     }
+		    }
+		}
 		case '%' :{ //if user enter % it calculate the remainder 
 			x = num1 % num2;
 			cout<<"result: "<<x;
