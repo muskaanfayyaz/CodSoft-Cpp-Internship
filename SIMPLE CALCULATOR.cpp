@@ -30,6 +30,7 @@ int main()
 		    if(num2 == 0 )
 		    {
 		        cout<< "ERROR! division by zero is not possible. "; 
+		        break;
 		    }
 	 	     else 
 		    { 	
