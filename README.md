@@ -85,7 +85,7 @@ Result: 15
 
 - Error message displayed for division by zero.
 
-# TASK 2
+# TASK 3
 
 # To-Do List Application
 
@@ -138,7 +138,7 @@ The code consists of the following components:
 - **Main Function**: Entry point of the program containing the user interface.
 
 
-## Author
+# Author
 
 These projects are created by MUSKAAN FAYYAZ.
 
