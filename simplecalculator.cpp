@@ -38,6 +38,7 @@ int main()
             
         cout << "Enter operator: ";
         cin >> op;
+		
         switch (op)
         {
             case '+':
